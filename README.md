@@ -1,4 +1,6 @@
-# Project faze 1
+﻿# Project faze 1
+Attention:
+FazzzeOne is the program for the first part of the project!!!!
 
 One Paragraph of project description goes here
 
